@@ -12,3 +12,5 @@ def date_time():
 @app.get("/path")
 def path():
     return os.path.abspath('fapi.py')
+
+#first
